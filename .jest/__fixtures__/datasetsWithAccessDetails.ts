@@ -71,8 +71,8 @@ export const assets: AssetExtended[] = [
       orders: 0,
       price: {
         value: 3231343254,
-        tokenAddress: '0xCfDdA22C9837aE76E0faA845354f33C62E03653a',
-        tokenSymbol: 'OCEAN'
+        tokenAddress: '0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C',
+        tokenSymbol: 'LSP20'
       }
     },
     version: '4.1.0',
@@ -86,11 +86,11 @@ export const assets: AssetExtended[] = [
     chainId: 137,
     datatokens: [
       {
-        address: '0xE5E5056A988EAE27f1624CF1212895f5B01D487b',
-        name: 'Limpid Ray Token',
+        address: '0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C',
+        name: 'Lisprocoin',
         serviceId:
           '52ce21def42afaef2b51e90389355e13bd93e502147172b22051f16f74af163d',
-        symbol: 'LIMRAY-96'
+        symbol: 'LSP20'
       }
     ],
     event: {
@@ -130,8 +130,8 @@ export const assets: AssetExtended[] = [
     nft: {
       address: '0x866e4ED7b001f40c4067d0a37d6d401a0B13EfD6',
       created: '2022-10-06T23:06:11',
-      name: 'Ocean Data NFT',
-      owner: '0x58754d9b3dbB4ddF5AC3502AcB963743b15e6398',
+      name: 'Lsp20',
+      owner: '0xD0355200111C2B21AAbC1a31552eCCDc5d4E905d',
       state: 0,
       symbol: 'OCEAN-NFT',
       tokenURI:
@@ -178,9 +178,9 @@ export const assets: AssetExtended[] = [
         decimals: 18
       },
       datatoken: {
-        address: '0xe5e5056a988eae27f1624cf1212895f5b01d487b',
-        name: 'Limpid Ray Token',
-        symbol: 'LIMRAY-96'
+        address: '0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C',
+        name: 'Lisprocoin',
+        symbol: 'LSP20'
       },
       isOwned: false,
       validOrderTx: null
@@ -238,7 +238,7 @@ export const assets: AssetExtended[] = [
     },
     services: [
       {
-        datatokenAddress: '0x57201e593912f4abBB62fEaa4479598c3Ad0010B',
+        datatokenAddress: '0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C',
         files:
           '0x043776dfd05df01a140bc2a622625902ce3c50e676801dace92a7a43ea1c35eff5d4970a25b35f4fc13285abe9512d695ad7eceaf3db0b47dbc438566dc165038a5deafb6570f390c4b80afef3d042f57cd3fb664bfc503baf6a772c191dbd458f4ba0d7bd69a738b141d80009b8cb89fcd32c6a90b73a8164445fe34fce90fbc17ca9a6f0f158dd995d1392ad7b821f162eae9b0410bbc452f65b301bb273cf0987e38cf9315ae92af2ed65ac3c0b31e876c2abd7c14b6c7927e85420d62c28ab88b639800d98137d84d8f86f53e43434a322d2db34c175337d57b99015b9fab0be0c026eaa6c334a2d664162ad966cfcdb91cf4aa4499aa4f480a46b2523f83b7c430586f04c89012851b2b0f6e179e95279478d5f12403362e976002257608aa9db50c7673628f1c150b3d1c6f7c660ab3f1851009121003483e4242d6d28563c07b0238e337391ec5cb887000533afda5846e0d9fe5c4b9efd92802409e4f532875dbc14d7dbece876f9d616a11a0ce53c220ba9bda9',
         id: '9325f8ff50ff3a46f757e7d819379b4d69fc73e4496880210c8fef8e587addbe',
