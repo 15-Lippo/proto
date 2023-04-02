@@ -2,24 +2,24 @@ export default {
   accountEns: 'jellymcjellyfish.eth',
   accountEnsAvatar:
     'https://metadata.ens.domains/mainnet/avatar/jellymcjellyfish.eth',
-  accountId: '0x99840Df5Cb42faBE0Feb8811Aaa4BC99cA6C84e0',
+  accountId: '0xD0355200111C2B21AAbC1a31552eCCDc5d4E905d',
   approvedBaseTokens: [
     {
-      address: '0xcfdda22c9837ae76e0faa845354f33c62e03653a',
-      symbol: 'OCEAN',
-      name: 'Ocean Token',
+      address: '0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C',
+      symbol: 'Lisprocoin',
+      name: 'LSP20',
       decimals: 18
     }
   ],
-  balance: { eth: '0', ocean: '1000' },
+  balance: { matic: '0', LSP20: '1000' },
   block: 7751969,
-  chainId: 5,
+  chainId: 137,
   connect: jest.fn(),
   isSupportedOceanNetwork: true,
   isTestnet: true,
   logout: jest.fn(),
-  networkData: { name: 'Görli', title: 'Ethereum Testnet Görli', chain: 'ETH' },
-  networkDisplayName: 'ETH Görli',
+  networkData: { name: 'Görli', title: 'Ethereum Testnet Görli', chain: 'MATIC' },
+  networkDisplayName: 'MATIC mainnet',
   networkId: 5,
   web3: { currentProvider: {} },
   web3Loading: false,
