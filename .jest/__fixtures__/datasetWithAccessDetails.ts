@@ -13,9 +13,9 @@ export const asset: AssetExtended = {
     isOwned: false,
     validOrderTx: null,
     baseToken: {
-      address: '0xcfdda22c9837ae76e0faa845354f33c62e03653a',
-      name: 'Ocean Token',
-      symbol: 'OCEAN',
+      address: '0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C',
+      name: 'Lisprocoin',
+      symbol: 'LSP20',
       decimals: 18
     },
     datatoken: {
