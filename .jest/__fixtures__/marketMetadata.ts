@@ -19,7 +19,7 @@ export default {
       chainId: 137,
       approvedTokens: [
         '0x282d8efce846a88b159800bd4130ad77443fa1a1',
-        '0xc5248aa0629c0b2d6a02834a5f172937ac83cbd3'
+        '0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C'
       ],
       swapApprovedFee: '0.001',
       swapNotApprovedFee: '0.002'
